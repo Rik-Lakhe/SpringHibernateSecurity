@@ -1,0 +1,16 @@
+edu\lfa\webapp\dao\GenericDAO.class
+edu\lfa\webapp\dao\impl\UserDAOImpl.class
+edu\lfa\webapp\dao\impl\CustomerDAOImpl.class
+edu\lfa\webapp\entity\User.class
+edu\lfa\webapp\dao\impl\AccountDAOImpl.class
+edu\lfa\webapp\dto\CustomerDTO.class
+edu\lfa\webapp\dao\UserDAO.class
+edu\lfa\webapp\dao\AccountDAO.class
+edu\lfa\webapp\controller\DefaultController.class
+edu\lfa\webapp\dto\AccountDTO.class
+edu\lfa\webapp\entity\Customers.class
+edu\lfa\webapp\entity\Account.class
+edu\lfa\webapp\dao\CustomerDAO.class
+edu\lfa\webapp\controller\AccountController.class
+edu\lfa\webapp\controller\CustomerController.class
+edu\lfa\webapp\entity\CustomerAccounts.class
